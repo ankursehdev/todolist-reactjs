@@ -2,6 +2,8 @@
 
 A simple To-Do list using React JS.
 
+<img src="public/todo.JPG" alt="Todo list react"/>
+
 I am learning "ReactJS" from [Scrimba](https://scrimba.com/), it's a wonderful platform to learn and execute at same time. All the mentors are wonderful!
 
 Currently this is reading from a JSON written in JS. You can easily add data from an API to complete.
@@ -56,9 +58,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## What it looks like?
-
-<img src="public/todo.JPG" alt="Todo list react"/>
 
 ## Next
 
