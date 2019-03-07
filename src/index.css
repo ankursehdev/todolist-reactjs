@@ -53,6 +53,10 @@ body {
   color: #333333;
 }
 
+.todo-item:last-child {
+  border-bottom: none;
+}
+
 input[type=checkbox] {
   margin-right: 10px;
   font-size: 30px;
