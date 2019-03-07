@@ -2,9 +2,9 @@
 
 A simple To-Do list using React JS.
 
-<img src="public/todo.JPG" alt="Todo list react"/>
-
 I am learning "ReactJS" from [Scrimba](https://scrimba.com/), it's a wonderful platform to learn and execute at same time. All the mentors are wonderful!
+
+<img src="public/todo.JPG" alt="Todo list react"/>
 
 Currently this is reading from a JSON written in JS. You can easily add data from an API to complete.
 
